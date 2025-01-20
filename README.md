@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome To My Github Page ;<br>My name Is Amir Baradaran And I Intrested In React.js & UI/UX
+Welcome To My Github Page ;<br>My name Is Amir Baradaran And I Intrested in Front-end (React.js) & UI/UX
 
 
 ## 🌐 Socials:
