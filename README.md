@@ -6,7 +6,28 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=header"/>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AmirBradaran&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+---
+
 ## 💫 About Me:
+
+<div align="center">
+  
+  ```javascript
+  const amir = {
+    name: "Amir Baradaran",
+    role: "Front-end Developer & UI/UX Designer",
+    location: "Iran 🇮🇷",
+    interests: ["React.js", "UI/UX Design", "Modern Web Technologies"],
+    currentlyLearning: ["Advanced React Patterns", "Performance Optimization"],
+    funFact: "I turn coffee into code ☕ → 💻"
+  };
+  ```
+  
+</div>
 
 <div align="center">
   
@@ -19,6 +40,8 @@
   💡 Interested in modern web technologies and design trends
   
   📝 Love to write clean, maintainable code
+  
+  🚀 Always eager to learn new technologies and frameworks
   
 </div>
 
@@ -112,6 +135,32 @@
 
 </div>
 
+<div align="center">
+  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmirBradaran&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=61DAFB&line=61DAFB&point=FFFFFF)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=AmirBradaran&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+## 🔝 Top Contributed Repo
+
+<div align="center">
+  
+![](https://github-contributor-stats.vercel.app/api?username=AmirBradaran&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
+
 ---
 
 ## ✍️ Random Dev Quote
@@ -124,12 +173,24 @@
 
 ---
 
-## 🔝 Top Contributed Repo
+## 🎯 Currently Working On
 
 <div align="center">
   
-![](https://github-contributor-stats.vercel.app/api?username=AmirBradaran&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  - 🔨 Building modern React applications with best practices
+  - 🎨 Creating beautiful and responsive UI/UX designs
+  - 📚 Learning advanced React patterns and optimization techniques
+  - 🚀 Improving code quality, performance, and user experience
+  - 💡 Exploring new technologies and frameworks
+  
+</div>
 
+---
+
+<div align="center">
+  
+  ### 💡 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+  
 </div>
 
 ---
@@ -146,11 +207,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=footer"/>
 </div>
 
----
-
 <div align="center">
   
-**⭐️ From [AmirBradaran](https://github.com/AmirBradaran) with ❤️**
-
+  **⭐️ From [AmirBradaran](https://github.com/AmirBradaran) with ❤️**
+  
+  ![Snake animation](https://github.com/AmirBradaran/AmirBradaran/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
-
