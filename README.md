@@ -104,21 +104,11 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmirBradaran&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)
-  
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=AmirBradaran&theme=dark&hide_border=false)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirBradaran&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8)
+![](https://github-readme-stats.vercel.app/api?username=AmirBradaran&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-</div>
+![](https://nirzak-streak-stats.vercel.app/?user=AmirBradaran&theme=dark&hide_border=false)
 
----
-
-## 🏆 GitHub Trophies:
-
-<div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=AmirBradaran&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirBradaran&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
@@ -146,11 +136,7 @@
 
 <div align="center">
   
-### 💻 Coding Activity
-  
-![Profile Views](https://visitcount.itsvg.in/api?id=AmirBradaran&icon=0&color=0)
-  
-![Snake animation](https://github.com/AmirBradaran/AmirBradaran/blob/output/github-contribution-grid-snake.svg)
+[![](https://visitcount.itsvg.in/api?id=AmirBradaran&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
