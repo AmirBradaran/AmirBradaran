@@ -147,7 +147,7 @@
 
 <div align="center">
   
-![](https://github-profile-trophy.vercel.app/?username=AmirBradaran&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=AmirBradaran&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
@@ -210,7 +210,5 @@
 <div align="center">
   
   **⭐️ From [AmirBradaran](https://github.com/AmirBradaran) with ❤️**
-  
-  ![Snake animation](https://github.com/AmirBradaran/AmirBradaran/blob/output/github-contribution-grid-snake.svg)
   
 </div>
