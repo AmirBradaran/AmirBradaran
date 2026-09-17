@@ -1,26 +1,13 @@
-
-      <svg
-        width="854"
-        height="280"
-        viewBox="0 0 854 280"
-        xmlns="http://www.w3.org/2000/svg"
-      >
-        <style>
-      .text {   font-size: 52px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 18px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } 
-      .text, .desc {   animation: fadeIn 1.2s ease-in-out forwards;  } @keyframes fadeIn {   from {     opacity: 0;   }   to {     opacity: 1;   }  } 
-    </style>
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          viewBox="0 0 854 280"
-        >
-          <defs>
-              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" stop-color="#00D9FF"/><stop offset="50%" stop-color="#7C3AED"/><stop offset="100%" stop-color="#EC4899"/>
-              </linearGradient>
-            </defs>
-          <path fill="url(#linear)"  fill-opacity="1" d="M 61 0 L 714 0 A 50 50 0 1 1 714 280 L 140 280 A 50 50 0 1 1 140 0 "></path>
-        </svg>
-         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="40%" class="text" style="fill:#FFFFFF;" stroke="#none" stroke-width="1" >Amir Baradaran</text>
-        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="62%" class="desc" style="fill:#FFFFFF;">Front-end Developer & UI/UX Designer</text>
-      </svg>
-    
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="280" viewBox="0 0 854 280" role="img" aria-label="Amir Baradaran">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="854" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00D9FF"/>
+      <stop offset="0.5" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#EC4899"/>
+    </linearGradient>
+  </defs>
+  <rect x="40" y="30" width="774" height="220" rx="110" ry="110" fill="url(#bg)"/>
+  <rect x="70" y="50" width="714" height="70" rx="35" ry="35" fill="#FFFFFF" opacity="0.15"/>
+  <text x="427" y="135" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" fill="#FFFFFF">Amir Baradaran</text>
+  <text x="427" y="180" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="500" fill="#FFFFFF">Front-end Developer &amp; UI/UX Designer</text>
+</svg>

@@ -1,7 +1,7 @@
 <!-- ===================== Amir Baradaran — Profile README ===================== -->
 
 <div align="center">
-  <img src="./assets/header.svg" alt="3D Header" />
+  <img src="https://raw.githubusercontent.com/AmirBradaran/AmirBradaran/main/assets/header.png" width="100%" alt="Amir Baradaran - Front-end Developer and UI/UX Designer" />
 </div>
 
 <br/>
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/github/followers/AmirBradaran?label=Followers&style=for-the-badge&color=238636&logo=github" alt="followers" />
 </div>
 
-<img src="./assets/wave-top.svg" width="100%" alt="animated wave" />
+<img src="https://raw.githubusercontent.com/AmirBradaran/AmirBradaran/main/assets/wave-top.svg" width="100%" alt="wave" />
 
 ## <img src="https://img.icons8.com/3d-fluency/48/person-male.png" width="36" height="36"/> About Me
 
@@ -86,14 +86,14 @@ const amir = {
 ## <img src="https://img.icons8.com/3d-fluency/48/combo-chart.png" width="36" height="36"/> GitHub Analytics
 
 <div align="center">
-  <img height="170" src="./assets/stats.svg" alt="stats" />
-  <img height="170" src="./assets/streak.svg" alt="streak" />
+  <img height="170" src="https://raw.githubusercontent.com/AmirBradaran/AmirBradaran/main/assets/stats.svg" alt="stats" />
+  <img height="170" src="https://raw.githubusercontent.com/AmirBradaran/AmirBradaran/main/assets/streak.svg" alt="streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="420" src="./assets/langs.svg" alt="languages" />
+  <img width="420" src="https://raw.githubusercontent.com/AmirBradaran/AmirBradaran/main/assets/langs.svg" alt="languages" />
 </div>
 
 ---
@@ -139,7 +139,7 @@ const amir = {
 
 </div>
 
-<img src="./assets/wave-bottom.svg" width="100%" alt="footer" />
+<img src="https://raw.githubusercontent.com/AmirBradaran/AmirBradaran/main/assets/wave-bottom.svg" width="100%" alt="footer" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by+%E2%9C%A8;Let's+build+something+amazing+together!" alt="thanks" />

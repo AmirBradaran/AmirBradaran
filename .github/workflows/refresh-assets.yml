@@ -18,14 +18,13 @@ jobs:
         run: |
           mkdir -p assets
 
-          curl -fsSL -o assets/header.svg \
-            "https://capsule-render.vercel.app/api?type=cylinder&color=0:00D9FF,50:7C3AED,100:EC4899&height=280&text=Amir%20Baradaran&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Front-end%20Developer%20%26%20UI%2FUX%20Designer&descAlignY=62&descSize=18&descColor=FFFFFF"
+          # Keep custom header.svg (do not overwrite with capsule-render fadeIn)
 
           curl -fsSL -o assets/wave-top.svg \
-            "https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0EA5E9,100:6366F1&height=100&section=header&animation=fadeIn"
+            "https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0EA5E9,100:6366F1&height=100&section=header"
 
           curl -fsSL -o assets/wave-bottom.svg \
-            "https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7C3AED,100:EC4899&height=120&section=footer&animation=fadeIn"
+            "https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7C3AED,100:EC4899&height=120&section=footer"
 
           curl -fsSL -o assets/stats.svg \
             "https://github-readme-stats.shion.dev/api?username=AmirBradaran&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF"
