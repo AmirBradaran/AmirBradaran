@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="120" viewBox="0 0 840 120">
+  <rect width="840" height="120" rx="12" fill="#0D1117" stroke="#238636" stroke-width="1"/>
+  <text x="420" y="55" text-anchor="middle" fill="#3FB950" font-family="Segoe UI, sans-serif" font-size="20" font-weight="700">= Contribution Snake</text>
+  <text x="420" y="85" text-anchor="middle" fill="#8B949E" font-family="Segoe UI, sans-serif" font-size="13">Run Action: Generate Snake ’ then refresh</text>
+</svg>

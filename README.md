@@ -1,184 +1,158 @@
-<!-- ============================================================
-     Amir Baradaran — GitHub Profile README
-     ============================================================ -->
+<!-- ===================== Amir Baradaran — Profile README ===================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=180&section=header&text=Amir%20Baradaran&fontSize=52&fontColor=61DAFB&fontAlignY=35&desc=Front-end%20Developer%20%26%20UI%2FUX%20Designer&descSize=18&descAlignY=60&descColor=8B949E&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00D9FF,50:7C3AED,100:EC4899&height=280&text=Amir%20Baradaran&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Front-end%20Developer%20%26%20UI%2FUX%20Designer&descAlignY=62&descSize=18&descColor=FFFFFF" alt="3D Header" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=680&height=100&lines=Hi%2C+I'm+Amir+%F0%9F%91%8B;I+craft+modern+web+experiences;React+%E2%80%A2+Next.js+%E2%80%A2+UI%2FUX" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=720&height=80&lines=Hey+there%2C+I'm+Amir+%F0%9F%91%8B;Front-end+Developer+%26+UI%2FUX+Designer;Building+modern+web+experiences+%E2%9C%A8" alt="Typing animation" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmirBradaran&label=Profile%20views&color=61dafb&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AmirBradaran&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/AmirBradaran?label=Followers&style=for-the-badge&color=238636" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/AmirBradaran?label=Followers&style=for-the-badge&color=238636&logo=github" alt="followers" />
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0EA5E9,100:6366F1&height=100&section=header&animation=fadeIn" width="100%" alt="animated wave" />
+## <img src="https://img.icons8.com/3d-fluency/48/person-male.png" width="36" height="36"/> About Me
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="28" height="28" /> About Me
+<div align="center">
+
+| <img src="https://img.icons8.com/3d-fluency/94/user-male-circle.png" width="88"/> | <img src="https://img.icons8.com/3d-fluency/94/source-code.png" width="88"/> | <img src="https://img.icons8.com/3d-fluency/94/design.png" width="88"/> | <img src="https://img.icons8.com/3d-fluency/94/globe.png" width="88"/> |
+|:---:|:---:|:---:|:---:|
+| **Amir Baradaran** | **Developer** | **UI / UX** | **Based in Iran** |
+
+</div>
+
+<br/>
 
 ```js
 const amir = {
   name: "Amir Baradaran",
-  role: ["Front-end Developer", "UI/UX Designer"],
-  location: "Iran 🇮🇷",
+  role: "Front-end Developer & UI/UX Designer",
   stack: ["React", "Next.js", "TypeScript", "Node.js"],
-  focus: ["Clean UI", "Performance", "UX details"],
+  focus: ["Clean UI", "Performance", "Great UX"],
   learning: ["Advanced React Patterns", "Web Performance"],
-  motto: "Turn ideas into polished interfaces ✨",
+  funFact: "I turn coffee into interfaces ☕ → ✨",
 };
 ```
 
 <p align="center">
-  Building <b>beautiful</b>, <b>fast</b>, and <b>accessible</b> interfaces.<br/>
-  Obsessed with clean code, thoughtful design, and modern web craft.
+  <img src="https://img.icons8.com/3d-fluency/28/sparkling.png" width="22"/>
+  I craft <b>beautiful</b>, <b>fast</b>, and <b>delightful</b> web experiences.
+  <img src="https://img.icons8.com/3d-fluency/28/sparkling.png" width="22"/>
 </p>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" alt="Connect" width="28" height="28" /> Connect
+## <img src="https://img.icons8.com/3d-fluency/48/handshake.png" width="36" height="36"/> Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirmohamad-baradaran-6b5a45328)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baradaran13085@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Codemashad_021)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmirBradaran)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirmohamad-baradaran-6b5a45328)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baradaran13085@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thatamir051)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmirBradaran)
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Skills" width="28" height="28" /> Tech Stack
+## <img src="https://img.icons8.com/3d-fluency/48/laptop.png" width="36" height="36"/> Tech Arsenal
 
-### Frontend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,vite&theme=dark" alt="Frontend skills" />
-</div>
+<p align="center">
+  <b>Frontend</b><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,vite&perline=8" alt="frontend" />
+</p>
 
-<br/>
+<p align="center">
+  <b>Styling & Design</b><br/>
+  <img src="https://skillicons.dev/icons?i=sass,bootstrap,mui,styledcomponents,figma,ps&perline=6" alt="styling" />
+</p>
 
-### Styling & UI
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=sass,bootstrap,mui,styledcomponents,figma&theme=dark" alt="Styling skills" />
-</div>
-
-<br/>
-
-### Backend & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,git,github,npm,vscode&theme=dark" alt="Backend & tools" />
-</div>
-
-<br/>
-
-<details>
-  <summary><b>Full badge list</b></summary>
-  <br/>
-  <div align="center">
-
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-  ![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-  ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
-  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-  ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-  ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
-  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-  ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-  ![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?style=flat-square&logo=strapi&logoColor=white)
-  ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-  </div>
-</details>
+<p align="center">
+  <b>Backend & Tools</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,git,github,npm,vscode&perline=8" alt="backend" />
+</p>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Stats" width="28" height="28" /> GitHub Analytics
+## <img src="https://img.icons8.com/3d-fluency/48/combo-chart.png" width="36" height="36"/> GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AmirBradaran&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9&ring_color=61DAFB" alt="GitHub Stats" />
-  <img height="180" src="https://streak-stats.demolab.com?user=AmirBradaran&theme=react&hide_border=true&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AmirBradaran&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" alt="stats" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=AmirBradaran&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirBradaran&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9" alt="Top Languages" />
+  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirBradaran&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirBradaran&bg_color=0D1117&color=61DAFB&line=61DAFB&point=FFFFFF&area=true&area_color=61DAFB&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirBradaran&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true&custom_title=Contribution%20Graph" alt="activity" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmirBradaran&theme=react&no-frame=true&no-bg=false&column=4&margin-w=12&margin-h=12" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AmirBradaran&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="trophies" />
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Rocket.png" alt="Working" width="28" height="28" /> Currently Building
+## <img src="https://img.icons8.com/3d-fluency/48/module.png" width="36" height="36"/> 3D Contribution Graph
+
+<!-- Auto-generated by GitHub Action after first run -->
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+</div>
+
+---
+
+## <img src="https://img.icons8.com/3d-fluency/48/snake.png" width="36" height="36"/> Contribution Snake
+
+<!-- Auto-generated by GitHub Action after first run -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="./output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## <img src="https://img.icons8.com/3d-fluency/48/rocket.png" width="36" height="36"/> Currently Building
 
 <div align="center">
 
-| Focus | Details |
-|:-----:|:--------|
-| ⚛️ | Modern React apps with clean architecture |
-| 🎨 | Responsive UI/UX with strong visual polish |
-| ⚡ | Performance, accessibility & DX improvements |
-| 📚 | Advanced React patterns & optimization |
+| <img src="https://img.icons8.com/3d-fluency/48/source-code.png" width="44"/> | <img src="https://img.icons8.com/3d-fluency/48/design.png" width="44"/> | <img src="https://img.icons8.com/3d-fluency/48/lightning-bolt.png" width="44"/> | <img src="https://img.icons8.com/3d-fluency/48/books.png" width="44"/> |
+|:---:|:---:|:---:|:---:|
+| Modern React apps | Polished UI/UX | Performance & a11y | Advanced patterns |
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" alt="Quote" width="28" height="28" /> Daily Inspiration
+## <img src="https://img.icons8.com/3d-fluency/48/idea.png" width="36" height="36"/> Daily Inspiration
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7C3AED,100:EC4899&height=120&section=footer&animation=fadeIn" width="100%" alt="footer" />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=100&section=footer&animation=fadeIn" alt="footer" />
-</div>
-
-<div align="center">
-
-  ### *"Code is like humor. When you have to explain it, it's bad."*
-  <sub>— Cory House</sub>
-
-  <br/>
-
-  **✦ Designed & coded by [AmirBradaran](https://github.com/AmirBradaran)**
-
-  <br/>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=420&lines=Thanks+for+stopping+by+%E2%9C%A8;Let's+build+something+great+together" alt="Footer typing" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by+%E2%9C%A8;Let's+build+something+amazing+together!" alt="thanks" />
+  <br/><br/>
+  <b>✦ Designed & coded by <a href="https://github.com/AmirBradaran">AmirBradaran</a></b>
 </div>

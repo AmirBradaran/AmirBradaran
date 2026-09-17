@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="200" viewBox="0 0 840 200">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+  </defs>
+  <rect width="840" height="200" rx="16" fill="url(#g)" stroke="#00D9FF" stroke-width="1" opacity="0.95"/>
+  <text x="420" y="95" text-anchor="middle" fill="#00D9FF" font-family="Segoe UI, sans-serif" font-size="22" font-weight="700">3D Contribution Graph</text>
+  <text x="420" y="130" text-anchor="middle" fill="#8B949E" font-family="Segoe UI, sans-serif" font-size="14">Run Action: GitHub-Profile-3D-Contrib ’ then refresh</text>
+</svg>
