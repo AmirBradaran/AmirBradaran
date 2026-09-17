@@ -1,0 +1,45 @@
+name: Refresh README Assets
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download stats assets
+        run: |
+          mkdir -p assets
+
+          curl -fsSL -o assets/header.svg \
+            "https://capsule-render.vercel.app/api?type=cylinder&color=0:00D9FF,50:7C3AED,100:EC4899&height=280&text=Amir%20Baradaran&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Front-end%20Developer%20%26%20UI%2FUX%20Designer&descAlignY=62&descSize=18&descColor=FFFFFF"
+
+          curl -fsSL -o assets/wave-top.svg \
+            "https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0EA5E9,100:6366F1&height=100&section=header&animation=fadeIn"
+
+          curl -fsSL -o assets/wave-bottom.svg \
+            "https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7C3AED,100:EC4899&height=120&section=footer&animation=fadeIn"
+
+          curl -fsSL -o assets/stats.svg \
+            "https://github-readme-stats.shion.dev/api?username=AmirBradaran&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF"
+
+          curl -fsSL -o assets/langs.svg \
+            "https://github-readme-stats.shion.dev/api/top-langs/?username=AmirBradaran&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"
+
+          curl -fsSL -o assets/streak.svg \
+            "https://streak-stats.demolab.com/?user=AmirBradaran&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"
+
+          ls -la assets
+
+      - name: Commit & Push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh profile README assets"
+          file_pattern: assets/*.svg
